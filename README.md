@@ -33,6 +33,12 @@ Android-DebugSnippets 是一个轻量级的辅助 Android 调试的工具库，�
 
 ## 使用方法
 
+添加 Android-DebugSnippets 到您的项目中：
+
+```groovy
+implementation 'io.github.xesam:android-debugviews:0.0.1'
+```
+
 ### 1. 初始化调试环境
 在应用启动时配置调试环境：
 
